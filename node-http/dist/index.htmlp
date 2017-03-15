@@ -1,0 +1,12 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0"><title>答校园</title><link rel=stylesheet href=//at.alicdn.com/t/font_9icj0spjd5gn9udi.css><script type=text/javascript src=http://libs.baidu.com/jquery/1.9.1/jquery.js></script><style type=text/css>html{
+    		font-size: 125%;
+        /*width: 100%;*/
+    	}
+      body{
+        margin:0;
+        /*height: 100%;*/
+        width: 100%;
+        position: relative;
+        background: #eee;
+        font-size: 0.8rem;
+      }</style><link href=/static/css/app.9bccf444a97e8099d25eac543aaf5645.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=/static/js/manifest.d67a90ce1060a0ede22e.js></script><script type=text/javascript src=/static/js/vendor.8b40aad1504ea21cafea.js></script><script type=text/javascript src=/static/js/app.248dde03503b7daf705f.js></script></body></html>
